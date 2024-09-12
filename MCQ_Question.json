@@ -1,0 +1,154 @@
+{
+  "mcqs": [
+    {
+      "question": "What does CSS stand for?",
+      "options": [
+        "Cascading Style Sheets",
+        "Colorful Style Sheets",
+        "Computer Style Sheets",
+        "Creative Style Sheets"
+      ],
+      "correct_answer": "Cascading Style Sheets"
+    },
+    {
+      "question": "Which HTML tag is used to define an internal style sheet?",
+      "options": [
+        "<css>",
+        "<script>",
+        "<style>",
+        "<link>"
+      ],
+      "correct_answer": "<style>"
+    },
+    {
+      "question": "Which company developed JavaScript?",
+      "options": [
+        "Microsoft",
+        "Netscape",
+        "Google",
+        "Oracle"
+      ],
+      "correct_answer": "Netscape"
+    },
+    {
+      "question": "Which of the following is a JavaScript data type?",
+      "options": [
+        "Number",
+        "Character",
+        "Float",
+        "Array"
+      ],
+      "correct_answer": "Number"
+    },
+    {
+      "question": "What does HTML stand for?",
+      "options": [
+        "Hyper Text Markup Language",
+        "Home Tool Markup Language",
+        "Hyperlinks and Text Markup Language",
+        "Hyper Transfer Markup Language"
+      ],
+      "correct_answer": "Hyper Text Markup Language"
+    },
+    {
+      "question": "Which of the following is not a valid JavaScript loop?",
+      "options": [
+        "for",
+        "foreach",
+        "while",
+        "do-while"
+      ],
+      "correct_answer": "foreach"
+    },
+    {
+      "question": "Which of the following is used to connect a webpage to an external JavaScript file?",
+      "options": [
+        "<link>",
+        "<script>",
+        "<style>",
+        "<meta>"
+      ],
+      "correct_answer": "<script>"
+    },
+    {
+      "question": "Which JavaScript function is used to write on the web page directly?",
+      "options": [
+        "document.write()",
+        "console.log()",
+        "window.alert()",
+        "prompt()"
+      ],
+      "correct_answer": "document.write()"
+    },
+    {
+      "question": "What is the correct syntax for referring to an external script called 'app.js'?",
+      "options": [
+        "<script href='app.js'>",
+        "<script src='app.js'>",
+        "<script link='app.js'>",
+        "<script file='app.js'>"
+      ],
+      "correct_answer": "<script src='app.js'>"
+    },
+    {
+      "question": "Which CSS property is used to change the background color?",
+      "options": [
+        "background-color",
+        "color",
+        "bgcolor",
+        "background"
+      ],
+      "correct_answer": "background-color"
+    },
+    {
+      "question": "In JavaScript, which method is used to parse a string to an integer?",
+      "options": [
+        "Number()",
+        "parseInt()",
+        "parseFloat()",
+        "Math.random()"
+      ],
+      "correct_answer": "parseInt()"
+    },
+    {
+      "question": "Which of the following is used to declare a variable in JavaScript?",
+      "options": [
+        "var",
+        "let",
+        "const",
+        "All of the above"
+      ],
+      "correct_answer": "All of the above"
+    },
+    {
+      "question": "What does SQL stand for?",
+      "options": [
+        "Structured Query Language",
+        "Simple Query Language",
+        "Sequential Query Language",
+        "Structured Question Language"
+      ],
+      "correct_answer": "Structured Query Language"
+    },
+    {
+      "question": "Which of the following tags is used for creating a hyperlink in HTML?",
+      "options": [
+        "<a>",
+        "<link>",
+        "<href>",
+        "<nav>"
+      ],
+      "correct_answer": "<a>"
+    },
+    {
+      "question": "Which version of JavaScript introduced `let` and `const`?",
+      "options": [
+        "ES5",
+        "ES6",
+        "ES7",
+        "ES8"
+      ],
+      "correct_answer": "ES6"
+    }
+  ]
+}
