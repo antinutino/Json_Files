@@ -13,10 +13,10 @@
     {
       "question": "Which HTML tag is used to define an internal style sheet?",
       "options": [
-        "<css>",
-        "<script>",
-        "<style>",
-        "<link>"
+        "css",
+        "script",
+        "style",
+        "link"
       ],
       "correct_answer": "<style>"
     },
