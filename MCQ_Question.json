@@ -11,16 +11,6 @@
       "correct_answer": "Cascading Style Sheets"
     },
     {
-      "question": "Which HTML tag is used to define an internal style sheet?",
-      "options": [
-        "css",
-        "script",
-        "style",
-        "link"
-      ],
-      "correct_answer": "style"
-    },
-    {
       "question": "Which company developed JavaScript?",
       "options": [
         "Microsoft",
