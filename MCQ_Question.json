@@ -11,6 +11,16 @@
       "correct_answer": "Cascading Style Sheets"
     },
     {
+      "question": "Which HTML tag is used to define an internal style sheet?",
+      "options": [
+        "css",
+        "script",
+        "style",
+        "link"
+      ],
+      "correct_answer": "style"
+    },
+    {
       "question": "Which company developed JavaScript?",
       "options": [
         "Microsoft",
@@ -51,6 +61,16 @@
       "correct_answer": "foreach"
     },
     {
+      "question": "Which of the following is used to connect a webpage to an external JavaScript file?",
+      "options": [
+        "link",
+        "script",
+        "style",
+        "meta"
+      ],
+      "correct_answer": "script"
+    },
+    {
       "question": "Which JavaScript function is used to write on the web page directly?",
       "options": [
         "document.write()",
@@ -63,12 +83,12 @@
     {
       "question": "What is the correct syntax for referring to an external script called 'app.js'?",
       "options": [
-        "<script href='app.js'>",
-        "<script src='app.js'>",
-        "<script link='app.js'>",
-        "<script file='app.js'>"
+        "script href='app.js'",
+        "script src='app.js'",
+        "script link='app.js'",
+        "script file='app.js'"
       ],
-      "correct_answer": "<script src='app.js'>"
+      "correct_answer": "script src='app.js'"
     },
     {
       "question": "Which CSS property is used to change the background color?",
@@ -113,12 +133,12 @@
     {
       "question": "Which of the following tags is used for creating a hyperlink in HTML?",
       "options": [
-        "<a>",
-        "<link>",
-        "<href>",
-        "<nav>"
+        "a",
+        "link",
+        "href",
+        "nav"
       ],
-      "correct_answer": "<a>"
+      "correct_answer": "a"
     },
     {
       "question": "Which version of JavaScript introduced `let` and `const`?",
