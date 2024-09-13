@@ -11,16 +11,6 @@
       "correct_answer": "Cascading Style Sheets"
     },
     {
-      "question": "Which HTML tag is used to define an internal style sheet?",
-      "options": [
-        "css",
-        "script",
-        "style",
-        "link"
-      ],
-      "correct_answer": "<style>"
-    },
-    {
       "question": "Which company developed JavaScript?",
       "options": [
         "Microsoft",
@@ -59,16 +49,6 @@
         "do-while"
       ],
       "correct_answer": "foreach"
-    },
-    {
-      "question": "Which of the following is used to connect a webpage to an external JavaScript file?",
-      "options": [
-        "<link>",
-        "<script>",
-        "<style>",
-        "<meta>"
-      ],
-      "correct_answer": "<script>"
     },
     {
       "question": "Which JavaScript function is used to write on the web page directly?",
